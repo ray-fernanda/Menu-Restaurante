@@ -4,7 +4,7 @@
 Este projeto consiste em um menu interativo para um restaurante, desenvolvido utilizando HTML, CSS e Javascript. O objetivo é proporcionar aos usuários uma experiência intuitiva na visualização dos produtos, organizados por categorias.
 
 ## 🚀  Funcionalidade
-- **Navegação por Categorias:** Os usuários podem explorar diferentes categorias de alimentos, como entradas, pratos principais, sobremesas, etc.
+- **Navegação por Categorias:** Os usuários podem explorar diferentes categorias.
 
 
 ## 🛠️ Tecnologias Utilizadas
